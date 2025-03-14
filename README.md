@@ -1,2 +1,2 @@
 # Deep-Learning-Prac
-Saving all the practicied Deep Learning techniques, and some additional notes, resources.
+Saving all of my practicied Deep Learning techniques, with some additional notes and resources in here
